@@ -1,0 +1,17 @@
+{
+    "name": "electiva/crud",
+    "description": "Proyecto evaluado de electiva II (CRUD)",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Electiva\\Crud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ceballos",
+            "email": "angelro.0601@gmail.com"
+        }
+    ],
+    "require": {}
+}
